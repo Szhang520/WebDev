@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.multiRootWorkspaceName": "WebDev"
+    "liveServer.settings.multiRootWorkspaceName": "WebDev",
+    "liveServer.settings.port": 5501
 }
