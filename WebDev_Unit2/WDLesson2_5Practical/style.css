@@ -1,6 +1,9 @@
-/* Challenge 8: Change the type of font to Arial for all elements */
 
-/* Challenge 9: Change the background color for all elements with a class of banner.  Choose a color
+/* Challenge 8: Change the type of font to Arial for all elements */
+*{
+    font-style:Arial;
+}
+/* Challenge 9: Change the background color for all elements with a id of banner.  Choose a color
                 using rgb( )
 */
 
